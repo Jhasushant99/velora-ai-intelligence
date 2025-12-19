@@ -1,0 +1,20 @@
+venv/
+__pycache__/
+*.pyc
+
+# data
+data/
+
+# models larger than GitHub limit
+*.joblib
+
+.env
+
+
+
+
+
+
+
+
+
