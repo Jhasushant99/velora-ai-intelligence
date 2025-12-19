@@ -1,14 +1,34 @@
-venv/
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.pkl
 
-# data
+# Virtual Environment
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Data & Models (large files)
 data/
-
-# models larger than GitHub limit
+models/
 *.joblib
 
+# Environment Variables
 .env
+
+# VS Code settings
+.vscode/
+
 
 
 
