@@ -21,7 +21,6 @@ env/
 # Data & Models (large files)
 data/
 models/
-*.joblib
 
 # Environment Variables
 .env
