@@ -1,4 +1,5 @@
 ##🎯 Project Overview
+
 Velora is an AI-driven educational tool designed to analyze student profiles and predict academic risk levels. By leveraging machine learning, it identifies students who may need additional support based on their engagement metrics, demographics, and assessment performance.
 ##🚀 Key Features
 A.Student Profile Analysis: Processes data including engagement clicks, average scores, and demographics.
