@@ -21,9 +21,12 @@ XGBoost is a powerful gradient-boosting framework. It is used in Velora for its 
 
 #AI Models: Random Forest Classifier, XGBoost Classifier
 Comparative Intelligence TableThe hub provides a detailed breakdown of model confidence levels:Student IDPredictionRF ConfidenceXGB ConfidenceRisk StatusDifficulty as follows-> STU-882,❌ RISK,55.0%,79.2%,🚩 High Risk,🟢 Standard
-⚙️ Installation & Usage
-#Clone the repository:
-git clone https://github.com/your-username/velora-student-intelligence.git
+⚙️ Installation & Usage<img width="245" height="314" alt="Screenshot 2025-12-20 at 12 17 10 PM" src="https://github.com/user-attachments/assets/1540c5ae-193f-49ef-9af8-54d7b1a6922c" />
+<img width="1121" height="215" alt="Screenshot 2025-12-20 at 12 16 45 PM" src="https://github.com/user-attachments/assets/3ecba3e6-ed20-4b92-b327-cde89a6d43b5" />
+<img width="811" height="293" alt="Screenshot 2025-12-20 at 12 16 40 PM" src="https://github.com/user-attachments/assets/3e78d850-7279-46ff-bda9-bb505e63169a" />
+<img width="1465" height="810" alt="Screenshot 2025-12-20 at 12 16 33 PM" src="https://github.com/user-attachments/assets/e9259f9d-6996-42ac-8988-2ac0c07951a1" />
+
+
 
 #Install dependencies:
 pip install -r requirements.txt
